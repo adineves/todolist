@@ -1,5 +1,22 @@
-- To Do List-
-Lista de tarefas basica, interface simples e será aprimorado enquanto uso para testes de estudo.
+📋 Sistema de Tarefas em Python
 
-- Funcionalidades -
-Adicionar, checas e resetar o app.
+Sistema desenvolvido para organização de tarefas diárias.
+
+Funcionalidades
+- Criar tarefas
+- Marcar como concluídas
+- Interface gráfica simples
+- Organização automática
+
+Tecnologias
+- Python
+- PySimpleGUI
+
+O que este projeto demonstra
+- Lógica de programação
+- Estrutura de sistema
+- Experiência do usuário
+- Organização de dados
+
+Autor
+Adler Neves
